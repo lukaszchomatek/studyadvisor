@@ -98,3 +98,19 @@ Otwórz narzędzie w przeglądarce:
 Zostaniesz następnie poproszony o zaakceptowanie połączenia. Kliknij "Continue".
 
 ![alt text](image-9.png)
+
+Przy pierwszym uruchomieniu n8n wypełnij formularz (nie zapomnij hasła)
+
+![alt text](image-10.png)
+
+Pomiń dwa kolejne formularze.
+
+### 7. Załóż konto Groq.
+
+Przejdź na [groq.com](https://www.groq.com) i kliknij "Start building". Zaloguj się kontem Google lub GitHubowym.
+
+Kliknij duży przycisk "Create API Key" a następnie skopiuj utworzony klucz i zapisz go np. w pliku tekstowym (lub w dokumentach Google). **Klucz będzie widoczny tylko raz, więc nie należy go gubić.** Na szczęście można go usunąć i utworzyć nowy.
+
+![alt text](image-11.png)
+
+### 
